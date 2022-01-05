@@ -1,0 +1,32 @@
+/* YOUR STYLING HERE */
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&family=Roboto:wght@100&display=swap');
+body{
+    background-color: $light-blue;
+    font-family: 'Comic Neue', cursive;
+}
+
+h1{
+    color: $blue;
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+    font-weight: 600;
+}
+
+.green{
+    color: $green;
+}
+
+.fas{
+    padding: 0.5rem;
+    // font-size: 2rem;
+}
+
+.faq{
+    margin: 3rem;
+    border-bottom: 1px solid black;
+    font-size: 1.5rem;
+}
+
+.answer{
+    font-size: 1rem;
+}
